@@ -1,14 +1,14 @@
 | year | descr | target | link |
 | --- | --- | --- | --- |
 | 2000 | ADK key manipulation | PGP 5.x | http://senderek.ie/research/security/key-experiments.html |
-| 2001 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076.pdf |
+| 2001 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076 |
 | 2003 | ElGamal sign+encrypt keys broken | GnuPG | https://nvd.nist.gov/vuln/detail/CVE-2003-0971 |
 | 2005 | CFB Quick Check weakness | OpenPGP CFB encryption | https://eprint.iacr.org/2005/033 |
-| 2015 | SEIP downgrade | OpenPGP standard | https://www.metzdowd.com/pipermail/cryptography/2015-October/026685.html |
-| 2012 | shared RSA moduli | Glück und Kanja PGP | https://eprint.iacr.org/2012/064.pdf https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html https://eprint.iacr.org/2015/262 |
+| 2012 | shared RSA moduli | Glück und Kanja PGP | https://eprint.iacr.org/2012/064 https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html https://eprint.iacr.org/2015/262 |
 | 2013 | trollwot | Web of Trust / Keyservers | https://github.com/micahflee/trollwot |
 | 2014 | Evil32 | Short Key IDs | https://evil32.com/ |
 | 2015 | DSA duplicate k | 1 key of unknown origin | https://eprint.iacr.org/2015/262 |
+| 2015 | SEIP downgrade | OpenPGP standard | https://www.metzdowd.com/pipermail/cryptography/2015-October/026685.html |
 | 2016 | Entropy Loss | GnuPG / Libgcrypt | https://formal.iti.kit.edu/~klebanov/pubs/libgcrypt-cve-2016-6313.pdf |
 | 2018 | efail | OpenPGP + HTML mail | https://efail.de/ |
 | 2018 | SigSpoof | GnuPG API interface | https://web.archive.org/web/20180616202842/https://neopg.io/blog/gpg-signature-spoof/ |
