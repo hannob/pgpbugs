@@ -3,6 +3,7 @@
 | 2000 | ADK key manipulation | PGP 5.x | http://senderek.ie/research/security/key-experiments.html |
 | 2001 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076.pdf |
 | 2003 | ElGamal sign+encrypt keys broken | GnuPG | https://nvd.nist.gov/vuln/detail/CVE-2003-0971 |
+| 2005 | CFB Quick Check weakness | OpenPGP CFB encryption | https://eprint.iacr.org/2005/033 |
 | 2015 | SEIP downgrade | OpenPGP standard | https://www.metzdowd.com/pipermail/cryptography/2015-October/026685.html |
 | 2012 | shared RSA moduli | Glück und Kanja PGP | https://eprint.iacr.org/2012/064.pdf https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html https://eprint.iacr.org/2015/262 |
 | 2013 | trollwot | Web of Trust / Keyservers | https://github.com/micahflee/trollwot |
