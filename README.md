@@ -5,7 +5,7 @@
 | 2001 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076 |
 | 2003 | ElGamal sign+encrypt keys broken | GnuPG | https://nvd.nist.gov/vuln/detail/CVE-2003-0971 |
 | 2005 | CFB Quick Check weakness | OpenPGP CFB encryption | https://eprint.iacr.org/2005/033 |
-| 2012 | shared RSA moduli | Glück und Kanja PGP | https://eprint.iacr.org/2012/064 https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html https://eprint.iacr.org/2015/262 |
+| 2012 | shared RSA moduli | Glück und Kanja PGP | https://eprint.iacr.org/2012/064 https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html https://eprint.iacr.org/2015/262 https://www.links.org/?p=143 |
 | 2013 | trollwot | Web of Trust / Keyservers | https://github.com/micahflee/trollwot |
 | 2014 | Evil32 | Short Key IDs | https://evil32.com/ |
 | 2015 | DSA duplicate k | 1 key of unknown origin | https://eprint.iacr.org/2015/262 |
