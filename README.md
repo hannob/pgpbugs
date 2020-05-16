@@ -1,5 +1,6 @@
 | year | descr | target | link |
 | --- | --- | --- | --- |
+| 1991 | Bass-O-Matic flaws | Bass-O-Matic cipher | https://en.wikipedia.org/wiki/BassOmatic |
 | 2000 | ADK key manipulation | PGP 5.x | http://senderek.ie/research/security/key-experiments.html |
 | 2001 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076 |
 | 2003 | ElGamal sign+encrypt keys broken | GnuPG | https://nvd.nist.gov/vuln/detail/CVE-2003-0971 |
