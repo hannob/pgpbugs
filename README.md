@@ -3,7 +3,7 @@
 | 1991 | Bass-O-Matic flaws | Bass-O-Matic cipher | https://en.wikipedia.org/wiki/BassOmatic | |
 | 2000 | ADK key manipulation | PGP 5.x | http://senderek.ie/research/security/key-experiments.html | [CVE-2000-0678](https://nvd.nist.gov/vuln/detail/CVE-2000-0678) |
 | 2001 | Surreptitious Forwarding | OpenPGP + Mail | https://www.usenix.org/legacy/publications/library/proceedings/usenix01/full_papers/davis/davis.pdf | |
-| 2001 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076 | |
+| 2002 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076 | |
 | 2003 | ElGamal sign+encrypt keys broken | GnuPG | https://nvd.nist.gov/vuln/detail/CVE-2003-0971 | [CVE-2003-0971](https://nvd.nist.gov/vuln/detail/CVE-2003-0971) |
 | 2005 | CFB Quick Check weakness | OpenPGP CFB encryption | https://eprint.iacr.org/2005/033 | [CVE-2005-0366](https://nvd.nist.gov/vuln/detail/CVE-2005-0366) |
 | 2012 | shared RSA moduli | Glück und Kanja PGP | https://eprint.iacr.org/2012/064 https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html https://eprint.iacr.org/2015/262 https://www.links.org/?p=143 | |
