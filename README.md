@@ -18,6 +18,7 @@
 | 2019 | Johnny, you are fired | OpenPGP signatures | https://www.usenix.org/conference/usenixsecurity19/presentation/muller | |
 | 2019 | Re: What's up Johnny? | Email encryption | https://www.nds.ruhr-uni-bochum.de/research/publications/re-whats-up-johnny/ | |
 | 2019 | Keyserver DoS | SKS keyservers | https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f | [CVE-2019-13050](https://nvd.nist.gov/vuln/detail/CVE-2019-13050) |
+| 2019 | Plaintext injection | python-gnupg | https://blog.hackeriet.no/cve-2019-6690-python-gnupg-vulnerability/ | [CVE-2019-6690](https://nvd.nist.gov/vuln/detail/CVE-2019-6690) |
 
 more
 ====
