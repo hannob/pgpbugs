@@ -11,6 +11,7 @@
 | 2014 | Evil32 | Short Key IDs | https://evil32.com/ | |
 | 2015 | DSA duplicate k | 1 key of unknown origin | https://eprint.iacr.org/2015/262 | |
 | 2015 | SEIP downgrade | OpenPGP standard | https://www.metzdowd.com/pipermail/cryptography/2015-October/026685.html | |
+| 2015 | Format Oracles | Various implementations | https://www.ssi.gouv.fr/uploads/2015/05/format-Oracles-on-OpenPGP.pdf | |
 | 2016 | Entropy Loss | GnuPG / Libgcrypt | https://formal.iti.kit.edu/~klebanov/pubs/libgcrypt-cve-2016-6313.pdf | [CVE-2016-6313](https://nvd.nist.gov/vuln/detail/CVE-2016-6313) |
 | 2018 | efail | OpenPGP + HTML mail | https://efail.de/ | [CVE-2017-17688](https://nvd.nist.gov/vuln/detail/CVE-2017-17688) |
 | 2018 | SigSpoof | GnuPG API interface | https://web.archive.org/web/20180616202842/https://neopg.io/blog/gpg-signature-spoof/ | [CVE-2018-12020](https://nvd.nist.gov/vuln/detail/CVE-2018-12020) |
