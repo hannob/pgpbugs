@@ -15,11 +15,13 @@
 | 2016 | Entropy Loss | GnuPG / Libgcrypt | https://formal.iti.kit.edu/~klebanov/pubs/libgcrypt-cve-2016-6313.pdf | [CVE-2016-6313](https://nvd.nist.gov/vuln/detail/CVE-2016-6313) |
 | 2018 | efail | OpenPGP + HTML mail | https://efail.de/ | [CVE-2017-17688](https://nvd.nist.gov/vuln/detail/CVE-2017-17688) |
 | 2018 | SigSpoof | GnuPG API interface | https://web.archive.org/web/20180616202842/https://neopg.io/blog/gpg-signature-spoof/ | [CVE-2018-12020](https://nvd.nist.gov/vuln/detail/CVE-2018-12020) |
+| 2019 | Unauthenticated Plaintext | Standard/API interaction | https://mailarchive.ietf.org/arch/msg/openpgp/fmQgRm94jhvPLEOi0J-o7A8LpkY/ https://github.com/rnpgp/rnp/issues/807 | |
 | 2019 | UI trust extrapolation | Evolution mail client | https://dev.gentoo.org/~mgorny/articles/evolution-uid-trust-extrapolation.html | |
 | 2019 | Johnny, you are fired | OpenPGP signatures | https://www.usenix.org/conference/usenixsecurity19/presentation/muller | |
 | 2019 | Re: What's up Johnny? | Email encryption | https://www.nds.ruhr-uni-bochum.de/research/publications/re-whats-up-johnny/ | |
 | 2019 | Keyserver DoS | SKS keyservers | https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f | [CVE-2019-13050](https://nvd.nist.gov/vuln/detail/CVE-2019-13050) |
 | 2019 | Plaintext injection | python-gnupg | https://blog.hackeriet.no/cve-2019-6690-python-gnupg-vulnerability/ | [CVE-2019-6690](https://nvd.nist.gov/vuln/detail/CVE-2019-6690) |
+| 2020 | Missing MDC check | RNP | https://bugzilla.mozilla.org/show_bug.cgi?id=1638645 https://github.com/rnpgp/rnp/issues/1142 | |
 
 more
 ====
