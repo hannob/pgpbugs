@@ -21,6 +21,7 @@
 | 2019 | Re: What's up Johnny? | Email encryption | https://www.nds.ruhr-uni-bochum.de/research/publications/re-whats-up-johnny/ | |
 | 2019 | Keyserver DoS | SKS keyservers | https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f | [CVE-2019-13050](https://nvd.nist.gov/vuln/detail/CVE-2019-13050) |
 | 2019 | Plaintext injection | python-gnupg | https://blog.hackeriet.no/cve-2019-6690-python-gnupg-vulnerability/ | [CVE-2019-6690](https://nvd.nist.gov/vuln/detail/CVE-2019-6690) |
+| 2020 | SHA-1 is a Shambles | Signatures / WoT | https://sha-mbles.github.io/ | [CVE-2019-14855](https://nvd.nist.gov/vuln/detail/CVE-2019-14855) |
 | 2020 | Missing MDC check | RNP | https://bugzilla.mozilla.org/show_bug.cgi?id=1638645 https://github.com/rnpgp/rnp/issues/1142 | |
 
 more
