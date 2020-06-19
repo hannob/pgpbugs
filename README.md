@@ -24,7 +24,6 @@
 | 2020 | SHA-1 is a Shambles | Signatures / WoT | https://sha-mbles.github.io/ | [CVE-2019-14855](https://nvd.nist.gov/vuln/detail/CVE-2019-14855) |
 | 2020 | Missing MDC check | RNP | https://bugzilla.mozilla.org/show_bug.cgi?id=1638645 https://github.com/rnpgp/rnp/issues/1142 | |
 | 2020 | gpgme verification bypass | fwupd / gpgme | https://github.com/justinsteven/advisories/blob/master/2020_fwupd_dangling_s3_bucket_and_CVE-2020-10759_signature_verification_bypass.md | [CVE-2020-10759](https://nvd.nist.gov/vuln/detail/CVE-2018-10759) |
-| 2020 | passphrase leakage | gradle | https://github.com/gradle/gradle/security/advisories/GHSA-ww7h-4fx5-8c2j | [CVE-2020-13165](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13165) |
 
 more
 ====
@@ -47,3 +46,7 @@ typical memory corruptions. To not clutter the list we list them separately here
 * [CVE-2014-9087/libksba/GnuPG: Integer underflow in the ksba_oid_to_str function in Libksba](https://nvd.nist.gov/vuln/detail/CVE-2014-9087)
 * [CVE-2015-1606/GnuPG: Invalid read / use after free in keyring parser](https://nvd.nist.gov/vuln/detail/CVE-2015-1606)
 * [CVE-2015-1607/GnuPG: Invalid read in keyring parser](https://nvd.nist.gov/vuln/detail/CVE-2015-1607)
+
+Also some misc bugs in other applications related to the usage of PGP:
+
+* [CVE-2020-13165/gradle: Passphrase leakage in logs](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13165), [Gradle advisory](https://github.com/gradle/gradle/security/advisories/GHSA-ww7h-4fx5-8c2j)
