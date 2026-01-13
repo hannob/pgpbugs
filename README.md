@@ -1,7 +1,7 @@
 | year | descr | target | link | CVE |
 | --- | --- | --- | --- | --- |
 | 1991 | Bass-O-Matic flaws | Bass-O-Matic cipher | https://en.wikipedia.org/wiki/BassOmatic | |
-| 2000 | ADK key manipulation | PGP 5.x | http://senderek.ie/research/security/key-experiments.html | [CVE-2000-0678](https://nvd.nist.gov/vuln/detail/CVE-2000-0678) |
+| 2000 | ADK key manipulation | PGP 5.x | https://senderek.ie/research/security/key-experiments.html | [CVE-2000-0678](https://nvd.nist.gov/vuln/detail/CVE-2000-0678) |
 | 2001 | Surreptitious Forwarding | OpenPGP + Mail | https://www.usenix.org/legacy/publications/library/proceedings/usenix01/full_papers/davis/davis.pdf | |
 | 2002 | Attack on Private Signature Keys | Keyring encryption | https://eprint.iacr.org/2002/076 | |
 | 2003 | ElGamal sign+encrypt keys broken | GnuPG | https://nvd.nist.gov/vuln/detail/CVE-2003-0971 | [CVE-2003-0971](https://nvd.nist.gov/vuln/detail/CVE-2003-0971) |
@@ -30,7 +30,7 @@ more
 ====
 
 An interesting list of older PGP issues can be found here:
-* http://www.mccune.cc/PGPpage2.htm
+* https://web.archive.org/web/20210121060339/http://www.mccune.cc/PGPpage2.htm
 
 The "Security Consederations" section of the
 OpenPGP specification RFC 4880 is also interesting:
